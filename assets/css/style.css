@@ -1,5 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+
 *{
     box-sizing: border-box;
+    font-family: 'Poppins', Arial, Helvetica, sans-serif;
 }
 
 body{
@@ -14,7 +18,7 @@ body{
 }
 
 .formulario{
-    margin: 20px auto;
+    margin: 100px auto;
     padding: 20px;
     border: 1px solid #ccc;
     border-radius: 5px;
@@ -43,7 +47,7 @@ body{
     padding: 10px 20px;
     border: none;
     border-radius: 5px;
-    font-size: 12px;
+    font-size: 16px;
     cursor: pointer;
 }
 
